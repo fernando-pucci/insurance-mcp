@@ -1,0 +1,394 @@
+{
+  "total": 24,
+  "items": [
+    {
+      "id": "cst-001",
+      "name": "João da Silva",
+      "document": "11144477735",
+      "documentType": "CPF",
+      "email": "joao.silva@example.com",
+      "phone": "11987654321",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Primavera",
+        "number": "100",
+        "city": "São Paulo",
+        "state": "SP",
+        "zipCode": "01001000"
+      }
+    },
+    {
+      "id": "cst-002",
+      "name": "Maria Oliveira",
+      "document": "98765432100",
+      "documentType": "CPF",
+      "email": "maria.oliveira@example.com",
+      "phone": "21998765432",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Avenida Central",
+        "number": "200",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "zipCode": "20040002"
+      }
+    },
+    {
+      "id": "cst-003",
+      "name": "Carlos Pereira",
+      "document": "12345678909",
+      "documentType": "CPF",
+      "email": "carlos.pereira@example.com",
+      "phone": "11991122334",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua dos Lírios",
+        "number": "50",
+        "city": "Campinas",
+        "state": "SP",
+        "zipCode": "13010000"
+      }
+    },
+    {
+      "id": "cst-004",
+      "name": "Fernanda Costa",
+      "document": "98732165400",
+      "documentType": "CPF",
+      "email": "fernanda.costa@example.com",
+      "phone": "11988776655",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Azul",
+        "number": "230",
+        "city": "Curitiba",
+        "state": "PR",
+        "zipCode": "80010000"
+      }
+    },
+    {
+      "id": "cst-005",
+      "name": "Eduardo Souza",
+      "document": "74185296301",
+      "documentType": "CPF",
+      "email": "eduardo.souza@example.com",
+      "phone": "31987654321",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Esperança",
+        "number": "44",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "zipCode": "30120000"
+      }
+    },
+    {
+      "id": "cst-006",
+      "name": "Patrícia Almeida",
+      "document": "85296374190",
+      "documentType": "CPF",
+      "email": "patricia.almeida@example.com",
+      "phone": "11922334455",
+      "status": "INACTIVE",
+      "address": {
+        "street": "Rua Sol",
+        "number": "10",
+        "city": "Florianópolis",
+        "state": "SC",
+        "zipCode": "88010000"
+      }
+    },
+    {
+      "id": "cst-007",
+      "name": "Rodrigo Santos",
+      "document": "36925814702",
+      "documentType": "CPF",
+      "email": "rodrigo.santos@example.com",
+      "phone": "21933445566",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua das Oliveiras",
+        "number": "55",
+        "city": "Niterói",
+        "state": "RJ",
+        "zipCode": "24010000"
+      }
+    },
+    {
+      "id": "cst-008",
+      "name": "Juliana Martins",
+      "document": "25814736901",
+      "documentType": "CPF",
+      "email": "juliana.martins@example.com",
+      "phone": "11944556677",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Harmonia",
+        "number": "99",
+        "city": "Santos",
+        "state": "SP",
+        "zipCode": "11010000"
+      }
+    },
+    {
+      "id": "cst-009",
+      "name": "Marcelo Andrade",
+      "document": "15935748620",
+      "documentType": "CPF",
+      "email": "marcelo.andrade@example.com",
+      "phone": "11955667788",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Amarela",
+        "number": "12",
+        "city": "Sorocaba",
+        "state": "SP",
+        "zipCode": "18010000"
+      }
+    },
+    {
+      "id": "cst-010",
+      "name": "Carla Ribeiro",
+      "document": "95147826301",
+      "documentType": "CPF",
+      "email": "carla.ribeiro@example.com",
+      "phone": "11966778899",
+      "status": "INACTIVE",
+      "address": {
+        "street": "Rua Verde",
+        "number": "77",
+        "city": "Recife",
+        "state": "PE",
+        "zipCode": "50010000"
+      }
+    },
+
+    {
+      "id": "cst-011",
+      "name": "Bruno Carvalho",
+      "document": "32165498700",
+      "documentType": "CPF",
+      "email": "bruno.carvalho@example.com",
+      "phone": "11977889900",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Brisa",
+        "number": "33",
+        "city": "Fortaleza",
+        "state": "CE",
+        "zipCode": "60010000"
+      }
+    },
+    {
+      "id": "cst-012",
+      "name": "Sofia Fernandes",
+      "document": "75315985203",
+      "documentType": "CPF",
+      "email": "sofia.fernandes@example.com",
+      "phone": "21911223344",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Vista Alegre",
+        "number": "188",
+        "city": "Salvador",
+        "state": "BA",
+        "zipCode": "40010000"
+      }
+    },
+    {
+      "id": "cst-013",
+      "name": "Leonardo Rocha",
+      "document": "85274196300",
+      "documentType": "CPF",
+      "email": "leonardo.rocha@example.com",
+      "phone": "31999887766",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Horizonte",
+        "number": "122",
+        "city": "Uberlândia",
+        "state": "MG",
+        "zipCode": "38400000"
+      }
+    },
+    {
+      "id": "cst-014",
+      "name": "Isabela Teixeira",
+      "document": "14725836901",
+      "documentType": "CPF",
+      "email": "isabela.teixeira@example.com",
+      "phone": "71988776655",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua das Gaivotas",
+        "number": "201",
+        "city": "Vitória",
+        "state": "ES",
+        "zipCode": "29010000"
+      }
+    },
+    {
+      "id": "cst-015",
+      "name": "Ricardo Nunes",
+      "document": "45678912312",
+      "documentType": "CPF",
+      "email": "ricardo.nunes@example.com",
+      "phone": "11922113344",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Bela Vista",
+        "number": "88",
+        "city": "Jundiaí",
+        "state": "SP",
+        "zipCode": "13200000"
+      }
+    },
+
+    {
+      "id": "cst-016",
+      "name": "Amanda Lopes",
+      "document": "36914725801",
+      "documentType": "CPF",
+      "email": "amanda.lopes@example.com",
+      "phone": "11911229988",
+      "status": "INACTIVE",
+      "address": {
+        "street": "Rua Aurora",
+        "number": "54",
+        "city": "Londrina",
+        "state": "PR",
+        "zipCode": "86010000"
+      }
+    },
+    {
+      "id": "cst-017",
+      "name": "Felipe Machado",
+      "document": "74196325800",
+      "documentType": "CPF",
+      "email": "felipe.machado@example.com",
+      "phone": "11999881122",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Campo Belo",
+        "number": "77",
+        "city": "São Paulo",
+        "state": "SP",
+        "zipCode": "04675000"
+      }
+    },
+    {
+      "id": "cst-018",
+      "name": "Larissa Dias",
+      "document": "25836914701",
+      "documentType": "CPF",
+      "email": "larissa.dias@example.com",
+      "phone": "11988771133",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Horizonte Azul",
+        "number": "11",
+        "city": "Guarulhos",
+        "state": "SP",
+        "zipCode": "07010000"
+      }
+    },
+
+    {
+      "id": "cst-019",
+      "name": "Thiago Barros",
+      "document": "15948632700",
+      "documentType": "CPF",
+      "email": "thiago.barros@example.com",
+      "phone": "11966779944",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Pôr do Sol",
+        "number": "98",
+        "city": "Maceió",
+        "state": "AL",
+        "zipCode": "57010000"
+      }
+    },
+    {
+      "id": "cst-020",
+      "name": "Aline Cardoso",
+      "document": "95126348702",
+      "documentType": "CPF",
+      "email": "aline.cardoso@example.com",
+      "phone": "21944335522",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Oceano",
+        "number": "42",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zipCode": "58010000"
+      }
+    },
+
+    {
+      "id": "cst-021",
+      "name": "Gabriel Cunha",
+      "document": "75348615900",
+      "documentType": "CPF",
+      "email": "gabriel.cunha@example.com",
+      "phone": "11988776644",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Arco Íris",
+        "number": "90",
+        "city": "Natal",
+        "state": "RN",
+        "zipCode": "59010000"
+      }
+    },
+    {
+      "id": "cst-022",
+      "name": "Beatriz Gomes",
+      "document": "85236974103",
+      "documentType": "CPF",
+      "email": "beatriz.gomes@example.com",
+      "phone": "11955667799",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Esperança",
+        "number": "14",
+        "city": "Manaus",
+        "state": "AM",
+        "zipCode": "69010000"
+      }
+    },
+
+    {
+      "id": "cst-023",
+      "name": "Rafael Ribeiro",
+      "document": "14736925800",
+      "documentType": "CPF",
+      "email": "rafael.ribeiro@example.com",
+      "phone": "11944556688",
+      "status": "INACTIVE",
+      "address": {
+        "street": "Rua Paz",
+        "number": "33",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "zipCode": "90010000"
+      }
+    },
+    {
+      "id": "cst-024",
+      "name": "Camila Barbosa",
+      "document": "36925814799",
+      "documentType": "CPF",
+      "email": "camila.barbosa@example.com",
+      "phone": "21977889911",
+      "status": "ACTIVE",
+      "address": {
+        "street": "Rua Vitória",
+        "number": "70",
+        "city": "Belém",
+        "state": "PA",
+        "zipCode": "66010000"
+      }
+    }
+  ]
+}

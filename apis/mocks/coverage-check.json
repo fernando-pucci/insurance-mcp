@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "policyId": "pol-1001",
+      "customerId": "cst-001",
+      "eventType": "COLLISION",
+      "eligible": true,
+      "reason": "Cobertura de colisão contratada.",
+      "alternatives": []
+    },
+    {
+      "policyId": "pol-1001",
+      "customerId": "cst-001",
+      "eventType": "THEFT",
+      "eligible": true,
+      "reason": "Cobertura de roubo/furto contratada.",
+      "alternatives": []
+    },
+    {
+      "policyId": "pol-1001",
+      "customerId": "cst-001",
+      "eventType": "REPLACEMENT_CAR",
+      "eligible": false,
+      "reason": "A apólice não possui cobertura de carro reserva.",
+      "alternatives": [
+        "Contratar cobertura de carro reserva.",
+        "Solicitar desconto proporcional no acionamento."
+      ]
+    },
+    {
+      "policyId": "pol-1003",
+      "customerId": "cst-002",
+      "eventType": "REPLACEMENT_CAR",
+      "eligible": true,
+      "reason": "Cobertura de carro reserva contratada.",
+      "alternatives": []
+    },
+    {
+      "policyId": "pol-1010",
+      "customerId": "cst-006",
+      "eventType": "WINDSHIELD",
+      "eligible": true,
+      "reason": "Cobertura de vidro contratada.",
+      "alternatives": []
+    },
+    {
+      "policyId": "pol-1011",
+      "customerId": "cst-007",
+      "eventType": "COLLISION",
+      "eligible": false,
+      "reason": "Cobertura de colisão não contratada.",
+      "alternatives": [
+        "Acionar cobertura de terceiros, se aplicável.",
+        "Consultar possibilidade de upgrade de plano."
+      ]
+    },
+    {
+      "policyId": "pol-1023",
+      "customerId": "cst-016",
+      "eventType": "THEFT",
+      "eligible": true,
+      "reason": "Apólice possui cobertura de furto.",
+      "alternatives": []
+    },
+    {
+      "policyId": "pol-1023",
+      "customerId": "cst-016",
+      "eventType": "COLLISION",
+      "eligible": false,
+      "reason": "Cobertura não contratada.",
+      "alternatives": [
+        "Acionar guincho (se contratado)."
+      ]
+    },
+    {
+      "policyId": "pol-1028",
+      "customerId": "cst-020",
+      "eventType": "FIRE",
+      "eligible": true,
+      "reason": "Cobertura de incêndio contratada.",
+      "alternatives": []
+    },
+    {
+      "policyId": "pol-1030",
+      "customerId": "cst-022",
+      "eventType": "TOWING",
+      "eligible": true,
+      "reason": "Evento de guincho coberto pela apólice.",
+      "alternatives": []
+    },
+
+    {
+      "policyId": "pol-9999",
+      "customerId": "cst-999",
+      "eventType": "COLLISION",
+      "eligible": false,
+      "reason": "Apólice não encontrada.",
+      "alternatives": [
+        "Verificar número da apólice.",
+        "Consultar atendimento comercial."
+      ]
+    }
+  ]
+}

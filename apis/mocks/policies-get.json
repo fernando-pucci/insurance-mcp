@@ -1,0 +1,458 @@
+{
+  "total": 30,
+  "items": [
+    {
+      "policyId": "pol-1001",
+      "number": "0102030405",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "mainVehiclePlate": "ABC1D23",
+      "customerId": "cst-001",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "FIRE",
+        "THIRD_PARTY",
+        "WINDSHIELD"
+      ]
+    },
+    {
+      "policyId": "pol-1002",
+      "number": "0102030406",
+      "product": "Auto – Popular",
+      "status": "ACTIVE",
+      "startDate": "2024-08-10",
+      "endDate": "2025-08-09",
+      "mainVehiclePlate": "BRA2A19",
+      "customerId": "cst-001",
+      "coverages": [
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1003",
+      "number": "9988776655",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-03-01",
+      "endDate": "2026-03-01",
+      "mainVehiclePlate": "XYZ8F22",
+      "customerId": "cst-002",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1004",
+      "number": "3322110099",
+      "product": "Auto – Essencial",
+      "status": "ACTIVE",
+      "startDate": "2025-04-12",
+      "endDate": "2026-04-12",
+      "mainVehiclePlate": "RTE9G55",
+      "customerId": "cst-002",
+      "coverages": [
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1005",
+      "number": "1002003004",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2024-11-01",
+      "endDate": "2025-11-01",
+      "mainVehiclePlate": "CDS5B11",
+      "customerId": "cst-003",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1006",
+      "number": "1002003005",
+      "product": "Auto – Popular",
+      "status": "ACTIVE",
+      "startDate": "2024-06-15",
+      "endDate": "2025-06-15",
+      "mainVehiclePlate": "FFF2C77",
+      "customerId": "cst-003",
+      "coverages": [
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1007",
+      "number": "5500110022",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-05-10",
+      "endDate": "2026-05-10",
+      "mainVehiclePlate": "FDS3Y88",
+      "customerId": "cst-004",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR",
+        "FIRE",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1008",
+      "number": "1100220033",
+      "product": "Auto – Essencial",
+      "status": "ACTIVE",
+      "startDate": "2024-09-20",
+      "endDate": "2025-09-20",
+      "mainVehiclePlate": "TSA9E10",
+      "customerId": "cst-005",
+      "coverages": [
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1009",
+      "number": "7788990011",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-01-15",
+      "endDate": "2026-01-15",
+      "mainVehiclePlate": "QWE1A22",
+      "customerId": "cst-006",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "WINDSHIELD",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1010",
+      "number": "4455667788",
+      "product": "Auto – Premium",
+      "status": "ACTIVE",
+      "startDate": "2025-02-01",
+      "endDate": "2026-02-01",
+      "mainVehiclePlate": "LOP2M33",
+      "customerId": "cst-006",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR",
+        "FIRE",
+        "THIRD_PARTY",
+        "WINDSHIELD"
+      ]
+    },
+
+    {
+      "policyId": "pol-1011",
+      "number": "9192939495",
+      "product": "Auto – Básico",
+      "status": "ACTIVE",
+      "startDate": "2025-03-20",
+      "endDate": "2026-03-20",
+      "mainVehiclePlate": "OPA3P44",
+      "customerId": "cst-007",
+      "coverages": [
+        "THEFT"
+      ]
+    },
+    {
+      "policyId": "pol-1012",
+      "number": "8765432100",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2024-10-01",
+      "endDate": "2025-10-01",
+      "mainVehiclePlate": "MNB8J77",
+      "customerId": "cst-008",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1013",
+      "number": "1726354859",
+      "product": "Auto – Popular",
+      "status": "ACTIVE",
+      "startDate": "2024-07-03",
+      "endDate": "2025-07-03",
+      "mainVehiclePlate": "ZXC9K81",
+      "customerId": "cst-008",
+      "coverages": [
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1014",
+      "number": "1928374655",
+      "product": "Auto – Completo",
+      "status": "CANCELED",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "mainVehiclePlate": "GHJ4L92",
+      "customerId": "cst-009",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "FIRE"
+      ]
+    },
+    {
+      "policyId": "pol-1015",
+      "number": "1231231234",
+      "product": "Auto – Essencial",
+      "status": "INACTIVE",
+      "startDate": "2022-09-20",
+      "endDate": "2023-09-20",
+      "mainVehiclePlate": "PLM2O11",
+      "customerId": "cst-010",
+      "coverages": [
+        "THEFT"
+      ]
+    },
+
+    {
+      "policyId": "pol-1016",
+      "number": "2223334445",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-02-18",
+      "endDate": "2026-02-18",
+      "mainVehiclePlate": "POI2M55",
+      "customerId": "cst-011",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "THIRD_PARTY",
+        "WINDSHIELD"
+      ]
+    },
+    {
+      "policyId": "pol-1017",
+      "number": "1011121314",
+      "product": "Auto – Essencial",
+      "status": "ACTIVE",
+      "startDate": "2025-01-28",
+      "endDate": "2026-01-28",
+      "mainVehiclePlate": "MLO7S33",
+      "customerId": "cst-012",
+      "coverages": [
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1018",
+      "number": "6549873210",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2024-12-01",
+      "endDate": "2025-12-01",
+      "mainVehiclePlate": "RTY9A88",
+      "customerId": "cst-012",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR"
+      ]
+    },
+    {
+      "policyId": "pol-1019",
+      "number": "9080706050",
+      "product": "Auto – Popular",
+      "status": "ACTIVE",
+      "startDate": "2024-05-14",
+      "endDate": "2025-05-14",
+      "mainVehiclePlate": "UIO4S29",
+      "customerId": "cst-013",
+      "coverages": [
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1020",
+      "number": "3344556677",
+      "product": "Auto – Premium",
+      "status": "ACTIVE",
+      "startDate": "2025-03-15",
+      "endDate": "2026-03-15",
+      "mainVehiclePlate": "AWE8Q33",
+      "customerId": "cst-014",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR",
+        "FIRE",
+        "THIRD_PARTY",
+        "WINDSHIELD"
+      ]
+    },
+
+    {
+      "policyId": "pol-1021",
+      "number": "7766554433",
+      "product": "Auto – Essencial",
+      "status": "ACTIVE",
+      "startDate": "2024-10-10",
+      "endDate": "2025-10-10",
+      "mainVehiclePlate": "ASD1C43",
+      "customerId": "cst-015",
+      "coverages": [
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1022",
+      "number": "4556677889",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-04-01",
+      "endDate": "2026-04-01",
+      "mainVehiclePlate": "ZSD3V88",
+      "customerId": "cst-015",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1023",
+      "number": "9090909090",
+      "product": "Auto – Popular",
+      "status": "ACTIVE",
+      "startDate": "2024-11-25",
+      "endDate": "2025-11-25",
+      "mainVehiclePlate": "QAZ4W33",
+      "customerId": "cst-016",
+      "coverages": [
+        "THEFT"
+      ]
+    },
+    {
+      "policyId": "pol-1024",
+      "number": "4848484848",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-01-08",
+      "endDate": "2026-01-08",
+      "mainVehiclePlate": "WSX8E17",
+      "customerId": "cst-017",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1025",
+      "number": "1239876540",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2024-06-08",
+      "endDate": "2025-06-08",
+      "mainVehiclePlate": "EDC8I88",
+      "customerId": "cst-018",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "FIRE",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1026",
+      "number": "5556667778",
+      "product": "Auto – Premium",
+      "status": "ACTIVE",
+      "startDate": "2025-04-12",
+      "endDate": "2026-04-12",
+      "mainVehiclePlate": "RFV1U44",
+      "customerId": "cst-018",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "FIRE",
+        "REPLACEMENT_CAR",
+        "THIRD_PARTY",
+        "WINDSHIELD"
+      ]
+    },
+    {
+      "policyId": "pol-1027",
+      "number": "2626262626",
+      "product": "Auto – Essencial",
+      "status": "ACTIVE",
+      "startDate": "2025-02-10",
+      "endDate": "2026-02-10",
+      "mainVehiclePlate": "TGB5O21",
+      "customerId": "cst-019",
+      "coverages": [
+        "THEFT",
+        "THIRD_PARTY"
+      ]
+    },
+    {
+      "policyId": "pol-1028",
+      "number": "1357924680",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2024-09-18",
+      "endDate": "2025-09-18",
+      "mainVehiclePlate": "YHN3P44",
+      "customerId": "cst-020",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "THIRD_PARTY",
+        "FIRE"
+      ]
+    },
+    {
+      "policyId": "pol-1029",
+      "number": "7654321098",
+      "product": "Auto – Popular",
+      "status": "ACTIVE",
+      "startDate": "2024-12-10",
+      "endDate": "2025-12-10",
+      "mainVehiclePlate": "UJM5L90",
+      "customerId": "cst-021",
+      "coverages": [
+        "THEFT"
+      ]
+    },
+    {
+      "policyId": "pol-1030",
+      "number": "9081726354",
+      "product": "Auto – Completo",
+      "status": "ACTIVE",
+      "startDate": "2025-03-03",
+      "endDate": "2026-03-03",
+      "mainVehiclePlate": "IKJ2H33",
+      "customerId": "cst-022",
+      "coverages": [
+        "COLLISION",
+        "THEFT",
+        "REPLACEMENT_CAR",
+        "THIRD_PARTY"
+      ]
+    }
+  ]
+}
