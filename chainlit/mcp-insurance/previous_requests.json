@@ -1,0 +1,132 @@
+[
+  {
+    "id": "history_7db31e54-d38a-4570-8fd3-1f55ad2e6aa7",
+    "executionDate": "Thu, 11 Dec 2025 18:47:06 GMT",
+    "collectionId": "0d9c539e-0804-497f-8607-444682e361e8",
+    "name": "Lista sinistros (claims) com dados de cliente, apolice, status ou tipo de evento.",
+    "requestMethodDTO": {
+      "type": "GET"
+    },
+    "url": "{{baseUrl}}/claims",
+    "queryParams": [],
+    "pathVariables": [],
+    "headers": [],
+    "bodyDTO": {
+      "Content-Type": "None",
+      "raw": {
+        "value": ""
+      },
+      "binary": "",
+      "valueRetriever": []
+    },
+    "expectedResponseDTO": {},
+    "actualResponseDTO": {
+      "body": ""
+    },
+    "authDTO": {
+      "typeDTO": "PARENT",
+      "valueDTO": []
+    },
+    "preScripts": "",
+    "postScripts": "",
+    "useCertBasedAuth": false,
+    "requestTimeout": 30,
+    "projectId": "",
+    "tenantId": "",
+    "workspaceId": null
+  },
+  {
+    "id": "history_6e70b44e-8c1f-419d-b701-2a6bb23af122",
+    "executionDate": "Thu, 11 Dec 2025 18:46:54 GMT",
+    "collectionId": "a8529cab-5695-4558-a676-1647d8d8d7f5",
+    "name": "Central endpoint to obtain an Access Token. The behavior varies based on the `grant_type` provided:\n- `authorization_code`: Exchanges an authorization code for a token.\n- `client_credentials`: Machine-to-machine authentication.\n- `password`: Authentication with user credentials (for trusted clients only).\n- `refresh_token`: Renews an expired access token.",
+    "requestMethodDTO": {
+      "type": "POST"
+    },
+    "url": "{{baseUrl}}/access-token",
+    "queryParams": [],
+    "pathVariables": [],
+    "headers": [
+      {
+        "key": "Content-Type",
+        "type": {
+          "type": "RAW"
+        },
+        "selected": true,
+        "rawDTO": {
+          "value": "application/x-www-form-urlencoded"
+        }
+      },
+      {
+        "selected": true,
+        "key": "Accept",
+        "type": {
+          "type": "RAW"
+        },
+        "rawDTO": {
+          "value": "*/*"
+        },
+        "dynamicValueDTO": {}
+      }
+    ],
+    "bodyDTO": {
+      "Content-Type": "application/x-www-form-urlencoded",
+      "raw": {
+        "value": "{\n  \"grant_type\": \"<string>\",\n  \"code\": \"<string>\",\n  \"redirect_uri\": \"<uri>\",\n  \"code_verifier\": \"<string>\",\n  \"username\": \"<string>\",\n  \"password\": \"<password>\",\n  \"refresh_token\": \"<string>\"\n}"
+      },
+      "binary": "",
+      "valueRetriever": []
+    },
+    "expectedResponseDTO": {},
+    "actualResponseDTO": {
+      "body": ""
+    },
+    "authDTO": {
+      "typeDTO": "PARENT",
+      "valueDTO": []
+    },
+    "preScripts": "",
+    "postScripts": "",
+    "useCertBasedAuth": false,
+    "requestTimeout": 30,
+    "projectId": "",
+    "tenantId": "",
+    "workspaceId": null
+  },
+  {
+    "id": "history_a1ce1fa2-c3ac-45db-888f-2e89737fa004",
+    "executionDate": "Thu, 11 Dec 2025 18:41:59 GMT",
+    "collectionId": "0d9c539e-0804-497f-8607-444682e361e8",
+    "name": "Lista sinistros (claims) com dados de cliente, apolice, status ou tipo de evento.",
+    "requestMethodDTO": {
+      "type": "GET"
+    },
+    "url": "{{baseUrl}}/claims",
+    "queryParams": [],
+    "pathVariables": [],
+    "headers": [],
+    "bodyDTO": {
+      "Content-Type": "None",
+      "raw": {
+        "value": ""
+      },
+      "binary": "",
+      "valueRetriever": []
+    },
+    "expectedResponseDTO": {},
+    "actualResponseDTO": {
+      "body": ""
+    },
+    "authDTO": {
+      "typeDTO": "PARENT",
+      "valueDTO": []
+    },
+    "preScripts": "",
+    "postScripts": "",
+    "useCertBasedAuth": false,
+    "requestTimeout": 30,
+    "projectId": "",
+    "tenantId": "",
+    "workspaceId": null
+  }
+]
